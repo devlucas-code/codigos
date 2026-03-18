@@ -109,7 +109,7 @@ O projeto inclui tratamento abrangente de erros com logs detalhados para facilit
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT/Apache/Proprietária]. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ## 📧 Contato
 
