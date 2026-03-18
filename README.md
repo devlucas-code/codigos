@@ -114,8 +114,8 @@ Este projeto está sob a licença [MIT/Apache/Proprietária]. Consulte o arquivo
 ## 📧 Contato
 
 - **Autor**: devlucas-code
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: seu-linkedin
+- **Email**: lucasmrj14@gmail.com
+- **LinkedIn**: www.linkedin.com/in/lucasmarionjacintho
 
 ## 🙏 Agradecimentos
 
