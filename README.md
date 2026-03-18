@@ -117,10 +117,6 @@ Este projeto está sob a licença [MIT/Apache/Proprietária]. Consulte o arquivo
 - **Email**: lucasmrj14@gmail.com
 - **LinkedIn**: www.linkedin.com/in/lucasmarionjacintho
 
-## 🙏 Agradecimentos
-
-Agradecimentos especiais à equipe e aos contribuidores.
-
 ---
 
 **Última atualização**: Março de 2026
